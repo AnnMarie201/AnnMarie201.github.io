@@ -1,11 +1,11 @@
 # Site settings
-author: Ann M
-title: 
+author: Ann Marie
+title: The Art of the Science of Data
 header-img: img/home-bg.png
 email: 40plusalive@gmail.com
-copyright_name: Ann M
+copyright_name: Ann Marie
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why I joined a Data Science Program
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  AnnMarie201
